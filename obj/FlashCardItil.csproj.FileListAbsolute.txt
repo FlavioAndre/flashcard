@@ -1,0 +1,8 @@
+D:\Profiles\f0fp241\Desenv\FlashCardItil\obj\Release\ResolveAssemblyReference.cache
+D:\Profiles\f0fp241\Desenv\FlashCardItil\obj\Release\FlashCard.Form1.resources
+D:\Profiles\f0fp241\Desenv\FlashCardItil\obj\Release\FlashCard.Properties.Resources.resources
+D:\Profiles\f0fp241\Desenv\FlashCardItil\obj\Release\FlashCardItil.csproj.GenerateResource.Cache
+D:\Profiles\f0fp241\Desenv\FlashCardItil\obj\Release\FlashCard.exe
+D:\Profiles\f0fp241\Desenv\FlashCardItil\obj\Release\FlashCard.pdb
+D:\Profiles\f0fp241\Desenv\FlashCardItil\bin\Release\FlashCard.exe
+D:\Profiles\f0fp241\Desenv\FlashCardItil\bin\Release\FlashCard.pdb
